@@ -1,0 +1,64 @@
+* 
+
+{ 
+
+    margin: 0; 
+
+    padding: 0; 
+
+  
+
+  
+
+} 
+
+.nav-bar 
+
+{ 
+	background-color: black;
+
+    list-style: none; 
+
+    position: relative; 
+
+    width: 100%; 
+
+} 
+
+  
+
+.nav-bar li 
+
+{ 
+
+    display: inline-block; 
+
+} 
+
+  
+
+  
+
+.nav-bar li a 
+
+{ 
+
+    color: white; 
+
+    display: block; 
+
+    text-decoration: none; 
+
+    padding: 8px 10px; 
+
+} 
+
+  
+
+.nav-bar li a:hover  
+
+{ 
+
+	background-color: grey;
+
+} 
